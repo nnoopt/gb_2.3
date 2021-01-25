@@ -24,6 +24,5 @@ public class Main {
 
         System.out.println("Телефон: " + pHone.get("Гусев"));
         System.out.println("Телефон: " + pHone.get("Ярцев"));
-
     }
 }
